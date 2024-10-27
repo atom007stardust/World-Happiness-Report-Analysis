@@ -26,36 +26,36 @@ Key Findings
 There are no missing values or duplicates in the dataset.
 Summary statistics for happiness scores and contributing factors are computed.
 ## Research Questions
-### What is the distribution of happiness scores across different regions?
+### Q1) What is the distribution of happiness scores across different regions?
 
 ### This question aims to identify patterns of happiness within various geographical contexts.
-How does GDP per capita correlate with happiness scores?
+Q2) How does GDP per capita correlate with happiness scores?
 
 ### Investigating the relationship between economic prosperity and happiness.
-What impact does family support have on a country's happiness score?
+Q3) What impact does family support have on a country's happiness score?
 
 ### Analyzing the significance of family as a social support system.
-How does health (life expectancy) relate to happiness levels?
+Q4) How does health (life expectancy) relate to happiness levels?
 
 ### Evaluating the connection between health and overall well-being.
 Does freedom influence happiness ratings?
 
 ### Understanding the role of personal freedoms in contributing to happiness.
-How does trust in government affect happiness?
+Q5) How does trust in government affect happiness?
 
 ### Assessing the importance of governmental integrity on societal happiness.
-What is the relationship between generosity and happiness scores?
+Q6) What is the relationship between generosity and happiness scores?
 
 ### Exploring if more generous countries tend to report higher happiness.
- Are there any outliers in happiness scores, and what factors contribute to them?
+Q7) Are there any outliers in happiness scores, and what factors contribute to them?
 
 ### Identifying countries with significantly higher or lower happiness scores than expected.
-What is the average happiness score for each region?
+Q8) What is the average happiness score for each region?
 
 ### Calculating mean happiness scores for a comparative analysis between regions.
-Can we predict happiness scores based on other metrics (e.g., GDP, health, freedom)?
+Q9) Can we predict happiness scores based on other metrics (e.g., GDP, health, freedom)?
 
-#### Exploring predictive models to estimate happiness based on contributing factors.
+#### Q10) Exploring predictive models to estimate happiness based on contributing factors.
 
 ### Conclusion
 This analysis of the World Happiness Data 2015 highlights the complexity of factors contributing to happiness across countries. Through the exploration of various metrics, it is evident that economic, social, and health-related factors play significant roles in determining happiness scores.
