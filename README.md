@@ -3,10 +3,10 @@
 This project analyzes the World Happiness Data 2015 dataset, exploring various factors contributing to happiness scores across different countries. The dataset includes metrics such as GDP per capita, family support, life expectancy, freedom, trust in government, and generosity.
 
 ## Contents
-### Data Analysis: Analysis of happiness rankings and scores, as well as correlations with various factors.
-### Visualization: Graphical representations of findings, highlighting trends and relationships.
-### Research Questions: A set of research questions guiding the analysis.
-### Getting Started
+#### Data Analysis: Analysis of happiness rankings and scores, as well as correlations with various factors.
+#### Visualization: Graphical representations of findings, highlighting trends and relationships.
+#### Research Questions: A set of research questions guiding the analysis.
+
 ### Prerequisites
 Make sure you have the following installed:
 
